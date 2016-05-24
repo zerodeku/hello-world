@@ -3,5 +3,4 @@ my first GitHub repo
 
 Something added by readme-edits.
 
-More stuff added by readme-edit.
-
+More stuff added by readme-edits.
